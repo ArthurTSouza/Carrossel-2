@@ -1,2 +1,2 @@
 # Carrossel-2
-Aprender a aplicar o carrossel
+Aprendendo uma forma de fazer um carrossel 
